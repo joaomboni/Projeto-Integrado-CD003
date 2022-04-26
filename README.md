@@ -1,0 +1,4 @@
+# Projeto-Integrado-CD003
+
+A Escola precisa definir a Comissão de Formatura e, para isso, precisa formar os grupos que cuidarão cada um de assuntos específicos, para auxiliar nesse processo e saber de quantas formas distintas é possível escolher os integrantes do grupo, de acordo com a quantidade de elementos de cada grupo e a quantidade de alunos da turma.
+A Escola solicitou a você o desenvolvimento de um Programa para isso. Assim, faça um Programa utilizando a linguagem Python que solicite ao usuário a quantidade de alunos de uma turma e a quantidade de elementos que pode cada grupo terá. Calcule e mostre quantos grupos diferentes podem ser formados, considerando a quantidade de elementos e de alunos fornecidos.
